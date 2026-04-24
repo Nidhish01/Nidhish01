@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey 👋, I am Nidhish Bansal</h1>
+  <h1>Hey 👋, I am Nidhish01.</h1>
 </div>
 
 ---
@@ -54,7 +54,7 @@
 ### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/nidhishbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhish Bansal LinkedIn" height="40" width="50" /></a>
-<a href="mailto:nbansal_be24@thapar.edu"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Nidhish Bansal Email" height="40" width="50" /></a>
+<a href="mailto:nbansal_be24@thapar.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Nidhish Bansal Email" height="40" width="40" /></a>
 </p>
 
 ---
