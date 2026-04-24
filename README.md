@@ -1,77 +1,68 @@
 <div align="center">
-  <h1>Hey 👋, I am Nidhish01.</h1>
+  <h1>Hi, I'm Nidhish Bansal 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Edge+AI+Enthusiast" alt="Typing SVG" />
+</div>
+
+### 💫 About Me
+I am a passionate **Machine Learning & Computer Vision Engineer** specializing in **Deep Learning**, **Edge AI**, and **Real-time Systems**. Currently pursuing my B.E. in Computer Science & Engineering, I focus on architecting high-performance neural networks and optimizing them for real-world deployment.
+
+- 🔭 I’m currently working on **Distributed IoT Traffic Intelligence Platforms**.
+- 🌱 I’m currently learning **Advanced Vision Transformers and Quantization Techniques**.
+- 👯 I’m looking to collaborate on **Open Source Computer Vision Projects**.
+- ⚡ Fun fact: I love reducing system latency one microservice at a time.
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,mysql,html,pytorch,sklearn,fastapi,django,git,linux,vscode,tableau" />
+</div>
+
+<br/>
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Machine Learning** | Supervised/Unsupervised Learning, Feature Engineering, Model Optimization |
+| **Deep Learning** | CNNs, Vision Transformers (ViT), Transfer Learning, Explainable AI |
+| **Computer Vision** | OpenCV, YOLO, Image/Video Processing, Face Recognition |
+| **Backend** | FastAPI, Django, REST APIs, Telemetry Ingestion |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nidhish01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nidhish's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhish01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhish01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhish01&theme=react-dark&bg_color=0D1117&hide_border=true&color=36BCF7" width="100%" />
 </div>
 
 ---
 
-### Skills
+### 🤝 Connect with me
 
-#### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-#### Machine Learning & Deep Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-000000?style=for-the-badge" alt="Explainable AI" />
-  <img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge" alt="CNNs" />
-  <img src="https://img.shields.io/badge/Vision%20Transformers-4B8BBE?style=for-the-badge" alt="Vision Transformers" />
-</p>
-
-#### Computer Vision
-<p align="left">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Image/Video%20Processing-8A2BE2?style=for-the-badge" alt="Image/Video Processing" />
-</p>
-
-#### Data & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST%20APIs-00599C?style=for-the-badge" alt="REST APIs" />
-</p>
-
-#### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" />
-</p>
-
----
-
-### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/nidhishbansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhish Bansal LinkedIn" height="40" width="50" /></a>
-<a href="mailto:nbansal_be24@thapar.edu"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Nidhish Bansal Email" height="40" width="40" /></a>
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Nidhish01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhish01&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<div align="center">
+  <a href="https://linkedin.com/in/nidhishbansal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Nidhish01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nidhish01&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <a href="mailto:nbansal_be24@thapar.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Nidhish01">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidhish01&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0091ff&height=100&section=footer" width="100%" />
+</div>
