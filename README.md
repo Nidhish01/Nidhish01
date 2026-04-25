@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Nidhish Bansal 👋</h1>
+  <h1>Hi, I'm Nidhish Bansal👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Computer+Vision+Specialist;Edge+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
